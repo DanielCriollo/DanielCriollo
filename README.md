@@ -1,53 +1,48 @@
-<h1 align="center">👋 Hola, soy Daniel Criollo</h1>
+<h1 align="center">🚀 Daniel Criollo</h1>
 
 <p align="center">
-  <strong>Desarrollador Backend PHP | Laravel Specialist | Clean Code Advocate</strong><br>
-  <em>"Construyendo soluciones robustas, escalables y bien estructuradas"</em>
+  <strong>Ingeniero de Sistemas | Backend Developer PHP | Laravel Specialist</strong><br>
+  <em>“Construyendo soluciones robustas, escalables y bien estructuradas”</em>
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/danielcriollo" target="_blank">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue">
+  </a>
+  <a href="mailto:danielcriollo9706@gmail.com">
+    <img alt="Email" src="https://img.shields.io/badge/Gmail-red?style=flat&logo=gmail&labelColor=red">
+  </a>
 </p>
 
 ---
 
-### 👨‍💻 Perfil Profesional
+## 💼 Sobre mí
 
 - 🎓 Ingeniero de Sistemas
-- 🛠️ +4 años de experiencia desarrollando APIs, sistemas internos y plataformas SaaS
-- ⚙️ Experto en Laravel, Livewire y ecosistema PHP moderno
-- 🧩 Fuerte enfoque en arquitectura limpia, testing, performance y mantenibilidad
-- 📦 Familiarizado con contenedores (Docker), control de versiones (Git) y metodologías ágiles
-- 🗃️ Experiencia en diseño y optimización de bases de datos relacionales
+- 🔧 +4 años de experiencia desarrollando APIs, sistemas internos y plataformas SaaS
+- 🧠 Especializado en Laravel, Livewire y el ecosistema PHP moderno
+- 🧩 Amante del Clean Code, testing y arquitectura mantenible
+- ⚙️ Experiencia sólida con Git, Docker, bases de datos SQL y metodologías ágiles
 
 ---
 
-### 🚀 Stack Técnico
+## 🧰 Stack Técnico
 
-#### 🧠 Lenguajes
-- PHP (moderno, orientado a objetos)
-- JavaScript (Vanilla, Alpine.js)
-- Bash
-- SQL
+### 🧠 Lenguajes  
+`PHP` · `JavaScript` · `Bash` · `SQL`
 
-#### 🧱 Frameworks & Librerías
-- Laravel (API RESTful, Eloquent, Jobs, Queues)
-- Livewire
-- Blade
-- Alpine.js
+### 🔧 Frameworks y Librerías  
+`Laravel` · `Livewire` · `Blade` · `Alpine.js`
 
-#### 🧰 Herramientas & DevOps
-- Git & GitHub
-- Docker (ambientes de desarrollo)
-- Composer
-- VS Code
-- Postman / Insomnia
+### 🚀 Herramientas y DevOps  
+`Git` · `Docker` · `Composer` · `VS Code` · `Postman / Insomnia`
 
-#### 🗃️ Bases de Datos
-- MySQL
-- MariaDB
-- SQLite
-           |
+### 🗃️ Bases de Datos  
+`MySQL` · `MariaDB` · `SQLite`
 
 ---
 
-### 📈 Estadísticas de GitHub
+## 📈 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=DanielCriollo&show_icons=true&theme=default" />
@@ -55,20 +50,22 @@
 
 ---
 
-### 📌 Intereses actuales
+## 🎯 Intereses actuales
 
-- 🧠 Arquitectura hexagonal y patrones de diseño aplicados al backend
-- 📚 Refactorización de legacy code y adopción de estándares modernos
-- 🧪 Automatización de pruebas con PHPUnit y Pest
-- ⛴️ Integración de microservicios y contenedores (Docker + Laravel Octane)
-- 🛡️ Seguridad y buenas prácticas en desarrollo web
+- ⚙️ Arquitectura Hexagonal y patrones de diseño
+- 🔁 Refactorización de código legado
+- 🧪 Testing automatizado con Pest / PHPUnit
+- 🛠️ Microservicios con Laravel Octane + Docker
+- 🛡️ Seguridad y buenas prácticas en backend
 
 ---
 
-### 📬 Contacto
+## 📫 Contacto
 
-- 📧 danielcriollo9706@gmail.com
-- 💼 [LinkedIn](https://www.linkedin.com/in/danielcriollo)  
-- 📁 [Portafolio](https://github.com/DanielCriollo?tab=repositories)  
+<p align="center">
+  <a href="mailto:danielcriollo9706@gmail.com"><strong>danielcriollo9706@gmail.com</strong></a><br>
+  <a href="https://www.linkedin.com/in/danielcriollo"><strong>LinkedIn</strong></a><br>
+  <a href="https://github.com/DanielCriollo?tab=repositories"><strong>Portafolio</strong></a>
+</p>
 
 ---
