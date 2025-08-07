@@ -1,16 +1,26 @@
-## Hi there 👋
+<h1 align="center">Hola, soy Daniel Criollo 👋</h1>
 
-<!--
-**DanielCriollo/DanielCriollo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <b>Ingeniero de Sistemas</b><br>
+  Desarrollador Backend enfocado en Laravel PHP<br>
+  Explorando tecnologías como Node.js, Docker y más<br>
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧠 Sobre mí
+
+- 🎯 Me especializo en **desarrollo backend** con enfoque en soluciones escalables.
+- 🔧 Conocimientos sólidos en **Laravel**, **MySQL**, y buenas prácticas REST.
+- 🚀 Aprendiendo constantemente sobre **Docker**, **Node.js** y tecnologías modernas.
+- 📚 Interesado en arquitectura de software, automatización y sistemas distribuidos.
+
+---
+
+### ⚙️ Tecnologías principales
+
+```bash
+💻 Lenguajes:     PHP • JavaScript • SQL
+🧰 Frameworks:    Laravel • Livewire • Node.js (básico)
+🛠️ Herramientas: Docker • Git • Composer • NPM
+🗄️ Bases de datos: MySQL • SQLite
